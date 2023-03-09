@@ -1,3 +1,3 @@
-Git is a version control system.
+Git is a fuckKkkk control system.
 git is free software
 
