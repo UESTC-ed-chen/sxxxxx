@@ -1,3 +1,2 @@
-Git is a fuckKkkk control system.
+Git is a  control system.
 git is free software
-
